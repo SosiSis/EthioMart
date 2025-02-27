@@ -1,3 +1,6 @@
+.env
+/downloads
+/data
+scraper_session.session
 /week5
-auto.py
 /data
